@@ -1,0 +1,13 @@
+For this project, I used the latest version of unity which can be downloaded here:
+http://unity3d.com/unity/download
+
+Much of my tutorial was based on the following tutorial video:
+http://forum.unity3d.com/threads/37093
+
+Here are some useful tips regarding unity
+http://devmag.org.za/2012/07/12/50-tips-for-working-with-unity-best-practices/
+
+Here you can find more resources to learn unity as well as the official documentation
+http://unity3d.com/learn
+
+For googling, I recommend links pointing to stackoverflow or unity answers
